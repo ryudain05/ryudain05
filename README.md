@@ -20,4 +20,4 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 
-<div align="center"> ![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=omni&show_icons=true)  </div>
+![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=omni&show_icons=true)
