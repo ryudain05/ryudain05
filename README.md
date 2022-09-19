@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=RYUDAIN%Developer!&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?text=RYUDAIN Developer!&fontAlignY=20)
 
 
 <h3 align="center"> Hi there 👋 </h3>
