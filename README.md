@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://img.simpleicons.org/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+ <img src="https://simpleicons.org/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 ![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=omni&show_icons=true)
