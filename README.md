@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=RyuDaIn_Developer!&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=RyuDaIn_Developer!&animation=fadeIn&fontColor=FF91C8)
 
 <h3 align="center"> Hi there 👋 </h3>
 
