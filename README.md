@@ -16,6 +16,5 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 
-![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=omni&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ryudain05=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=omni&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ryudain05=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
