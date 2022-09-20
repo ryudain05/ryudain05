@@ -18,5 +18,4 @@
 
 ![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=omni&show_icons=true) 
 
-
-[![Top Langs](https://github-ryudain05.vercel.app/api/top-langs/?ryudain05=anuraghazra&layout=compact)](https://github.com/ryudain05)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ryudain05=ohbyul&layout=compact&theme=dracula)](https://github.com/ryudain05)
