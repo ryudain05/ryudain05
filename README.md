@@ -30,4 +30,5 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 </p>
 
-![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
+![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)<br> <br>
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
