@@ -16,11 +16,13 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp
 </p>
 
-<h3 align="center'> 🐰 Me 🐰 </h3>
+<h3 align="center"> 🐰 Me 🐰 </h3>
+<p align="center">
 <br><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
+</p>
 
 ![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=omni&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=dracula)](https://github.com/metleeha)
