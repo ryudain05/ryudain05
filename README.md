@@ -33,5 +33,5 @@
 <br>
 <br>
 
-![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)<br><br>
+![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)<br>
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
