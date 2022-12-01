@@ -36,9 +36,9 @@
 <br>
 
 <div align=center> 
-  [ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)<br>
+	(https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)
 </div>
   
 <div align=center> 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
+	(https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
 </div>
