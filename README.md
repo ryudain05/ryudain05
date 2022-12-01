@@ -1,5 +1,6 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=slice&color=903729&height=200&section=header&text=dain%20Github!&desc=Desc%descAlign=20&fontSize=80&fontColor=e9dccf" />	
+	<img src="https://capsule-render.vercel.app/api?type=slice&color=903729&height=200&section=header&text=dain%20Github!&fontSize=80&
+		  rotate=-30&fontColor=e9dccf" />	
 </div>
 
 <br>
