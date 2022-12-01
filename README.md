@@ -35,12 +35,10 @@
 <br>
 <br>
 
-<div align=center> 
-	
-	
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)
+
   
-<div align=center> 
-	(https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
-</div>
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
+
