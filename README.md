@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?color=50508C&type=waving&text=🐰RyuDaIn_Developer🐰&animation=fadeIn&fontColor=FF1493)
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=dain%20Github!&fontSize=80" />	
+</div>
 
 <br>
 <h3 align="center"> ⛏ Tech stack 🔨 </h3>
@@ -33,5 +35,10 @@
 <br>
 <br>
 
-![ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)<br>
+<div align=center> 
+  [ryudain05's github stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)<br>
+</div>
+  
+<div align=center> 
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact&theme=swift)](https://github.com/metleeha)
+</div>
