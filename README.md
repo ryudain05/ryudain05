@@ -21,6 +21,14 @@
 <br>
 <br>
 
+<div align=center>
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)
+</div>
+
+<br>
+
+
 <h3 align="center"> 🐰 Me 🐰 </h3>
 <p align="center">
 <br><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
@@ -35,10 +43,6 @@
 <br>
 <br>
 
-<div align=center>
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudain05&theme=swift&show_icons=true)
-</div>
 
 
 
