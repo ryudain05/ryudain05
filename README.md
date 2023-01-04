@@ -46,8 +46,8 @@
 <br>
 
 <div align=center>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact)](https://github.com/ryudain05/github-readme-stats)
 </div>
 
 
