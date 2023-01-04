@@ -45,10 +45,11 @@
 <br>
 <br>
 
-<div align=center>
+
 <br><br>	
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 <h3 align="center"> 💟 SNS Follow Me 💟 </h3>
