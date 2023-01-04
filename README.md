@@ -23,7 +23,7 @@
 
 <div align=center>
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudain05&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudain05&show_icons=true&theme=tokyonight)
 	
 </div>
 
@@ -46,11 +46,11 @@
 <br>
 
 
-<br><br>	
+<div align="center">	
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 <h3 align="center"> 💟 SNS Follow Me 💟 </h3>
 <p align="center">
