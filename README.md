@@ -22,17 +22,12 @@
 
 <br>
 
-<div align=center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdlsekdls)](https://solved.ac/dkdlsekdls/)
-
-</div>
-
 
 
 <div align="center">	
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudain05&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkdlsekdls)](https://solved.ac/dkdlsekdls/)
 
 </div>
 
