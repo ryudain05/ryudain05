@@ -33,8 +33,8 @@
 
 <h3 align="center"> 💟 SNS Follow Me 💟 </h3>
 <p align="center">
-<a href="ryudain.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=ryudain.tistory.com"/></a>
+<a href="ryudain.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ryudain.tistory.com"/></a>
 <a href="https://www.instagram.com/ryudxin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryudxin/"/></a>&nbsp
-<a href="mailto:dai97057@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dai97057@gmail.com"/></a>
+<a href="mailto:dai97057@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=https://dai97057@gmail.com"/></a>
 </p>
 </p>
