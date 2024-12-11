@@ -2,6 +2,10 @@
 	<img src="https://capsule-render.vercel.app/api?type=slice&color=A52A2A&height=200&section=header&text=dain%20Github!&fontSize=60&fontColor=FACD87&rotate=15&fontAlign=70" />	
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ryudain05?pet-id=1" width="1000" height="120"/>
+</a>
+
 <h3 align="center"> 🐰 Tech Stack🐰 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
