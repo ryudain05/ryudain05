@@ -3,7 +3,7 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ryudain05?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/ryudain05" width="1000" height="250"/>
 </a>
 
 <h3 align="center"> 🐰 Tech Stack🐰 </h3>
